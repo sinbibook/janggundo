@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-05T01:45:42.865720976Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-18T04:15:54.194641744Z",
     "templateType": "trip_b",
     "propertyId": "340d6e86-388a-4ccb-b0b7-5b2d8dcc1de8",
     "homepageId": "01a1a142-7abf-7413-b1ba-3a5de57120b2"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n저녁 8시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n저녁 8시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 10,000원, 아동 1인 10,000원, 유아 무료\n(1박기준)\n영, 유아도 추가 인원에 포함되며 36개월 이상 1만원의 추가 요금이 적용됩니다.(36개월까지 무료)\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 1층 야외 테라스\n- 바베큐 형태: 전기그릴\n- 이용 요금: 1대 20,000원(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 19:00\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 보유\n- ott 이용 불가\n- 차량 12분 거리에 만성리 해수욕장이 있습니다.\n- 차량 5분 거리에 롯데마트, 하나로마트가 있습니다.\n- 펜션에서 장군도 횟집을 운영하고 있습니다.\n※ 숙박 고객님께 장군도 횟집10%,바삭하게돈가스집 20% 할인을 제공드립니다.\n\n[교통편]\n전남 여수시 돌산읍 우두리 799-223\n\n네비게이션에 장군도 펜션을 검색 해주세요\n\n대중교통 이용시\n여수시외버스터미널\n\n- 111번,115번,999번 탑승 후 돌산대교회타운입구 정류장 하차",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n저녁 8시 이후 입실 예정이신 경우에는 펜션 측에 반드시 사전연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가요금]\n- 결제방법: 선결제\n영, 유아도 추가 인원에 포함되며 36개월 이상 1만원의 추가 요금이 적용됩니다.(36개월까지 무료)\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 1층 야외 테라스\n- 바베큐 형태: 전기그릴\n- 이용 요금: 1대 20,000원(1박기준/현장결제)\n- 신청 시간: 15:00 ~ 19:00\n- 이용 시간: 15:00 ~ 22:00\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 엘레베이터 보유\n- ott 이용 불가\n- 차량 12분 거리에 만성리 해수욕장이 있습니다.\n- 차량 5분 거리에 롯데마트, 하나로마트가 있습니다.\n- 펜션에서 장군도 횟집을 운영하고 있습니다.\n※ 숙박 고객님께 장군도 횟집10%,바삭하게돈가스집 20% 할인을 제공드립니다.\n\n[교통편]\n전남 여수시 돌산읍 우두리 799-223\n\n네비게이션에 장군도 펜션을 검색 해주세요\n\n대중교통 이용시\n여수시외버스터미널\n\n- 111번,115번,999번 탑승 후 돌산대교회타운입구 정류장 하차",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -391,7 +391,7 @@
           {
             "id": "15f94188-8128-484f-9f0b-412bdaecca46",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/zIre9WaoFQnc.jpg",
-            "sortOrder": 0,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -401,7 +401,7 @@
           {
             "id": "4fb7eab7-7e26-477e-9c0a-b787769902f4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/UO1k4vR0wSET.jpg",
-            "sortOrder": 0,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -409,7 +409,7 @@
           {
             "id": "6a30d9d6-c2b0-491d-940c-601e710f1ae7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/h5Ewdg2TuSNK.jpg",
-            "sortOrder": 1,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -417,7 +417,7 @@
           {
             "id": "98501002-12cb-4a9b-be4c-2d88305b383d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/sQDhBY5XvSc6.jpg",
-            "sortOrder": 2,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -425,7 +425,7 @@
           {
             "id": "dfc31470-d85e-442d-98d5-8f6f133dae3b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/v7k5gZyDcOt0.jpg",
-            "sortOrder": 3,
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -433,7 +433,7 @@
           {
             "id": "ea74ec15-3df1-4646-87b7-22822160ef8f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/fX5laAQdBI0x.jpg",
-            "sortOrder": 4,
+            "sortOrder": 15,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -441,7 +441,7 @@
           {
             "id": "3a40745f-be8d-47ae-8c07-9f4a9d57fb88",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/FGsp5eVPZaHD.jpg",
-            "sortOrder": 5,
+            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -449,7 +449,7 @@
           {
             "id": "b718d5db-3bab-42b3-88a4-dd80faf8ad70",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/FJ3BOQTwk29L.jpg",
-            "sortOrder": 6,
+            "sortOrder": 17,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -457,7 +457,7 @@
           {
             "id": "d87f4252-8a32-4c23-b411-b75106d137c7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/06/82KnV7TtjWE1.jpg",
-            "sortOrder": 7,
+            "sortOrder": 18,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -4271,7 +4271,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
